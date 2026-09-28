@@ -1,0 +1,17 @@
+{
+  "name": "cli-notes-app",
+  "version": "1.0.0",
+  "description": "A command-line notes application built with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "notes",
+    "javascript"
+  ],
+  "author": "Naveen Shrivastav",
+  "license": "MIT"
+}
